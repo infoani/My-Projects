@@ -1,6 +1,6 @@
 # Introdution:
 
-Hello everyone, I am Anirban with my colleague Irfan. We're from Object Storage development team and today we'll be presenting the "Enhanced" PreAuthenticatedRequests.  
+Hello everyone, I am Anirban with my team-mates Praveen and Irfan. We're from Object Storage development team and today we'll be presenting the "Enhanced" PreAuthenticatedRequests.  
 
 # Slide 1 (What is a PAR)
 
