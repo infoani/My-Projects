@@ -5,7 +5,7 @@ Hello everyone, I am Anirban with my team-mates Praveen and Irfan. We're from Ob
 # Slide 1 (What is a PAR)
 
 ## Before starting with the presentation let me give a brief introduction of Pre-Authenticated requests.
-1. Pre-Authenticated Reqeusts are a mechanism to allow access to resources on Object-Storage to someone without sharing the credentials, as long as the one who's creating it has access to it.
+1. Pre-Authenticated Reqeusts are a mechanism to provide access to resources on Object-Storage to a wider audience without sharing the credentials, as long as the one who's creating it has access to it.
 
 2. When you create a pre-auth request you get an unique url back.
 3. Using which anyone can access objects from object storage with simple tools like curl, wget. The url itself acts like credentials.
