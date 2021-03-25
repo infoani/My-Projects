@@ -32,7 +32,7 @@ Hello everyone, I am Anirban with my team-mates Praveen and Irfan. We're from Ob
 
 ### Customers requested that we make support for "Objects-With-Prefixes" available for them. 
 1. So that any operation performed through the PARs is scoped to the prefix. 
-2. This would really expand their usage of PARs in multitenant situations. For example, if customer has multiple tenancies, they could configure __PARs-with-prefixes__ in such a way that each untrusted host is only able to upload log files to that specific host-prefix and not anywhere else.
+2. This would really expand their usage of PARs in multitenant situations. For example, if customer has multiple tenancies, they could configure __PARs-with-prefixes__ in such a way that each untrusted host is only able to upload log files to that specific host-prefix and not anywhere else. Having prefixes really gives them more control over what they want to share with minimal efforts.
 
 # Slide 4 (PAR features required to remove public buckets)
 
