@@ -38,7 +38,7 @@ Hello everyone, I am Anirban and I am here with my team-mates Praveen and Irfan.
 
 ## Public buckets do have a lot of security drawbacks, so we'd like to replace them with PARs.
 
-### To enable this migration we would need support for
+### To enable this migration we would need reduce the feature parity between them and make PAR a lot like Public Buckets
 1. Reading any object in the bucket
 2. And Listing objects in the bucket. So if we perform a GET operation on a PAR without providing an object name it should not fail, it should list the objects in the bucket instead.
 
