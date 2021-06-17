@@ -17,7 +17,7 @@ For long we had only been supporting writes to the bucket. Problem with this sce
 Now this is not only impractical but also requires additional effors in maintaining the PARs in terms of security. With this feature we move away from that impracticality.
 
 2. Additionally, the customers wanted us to support pars with prefixes, which would restrict a PARs access only to certain prefixes. This is useful in scenarios 
-where they would want to give access only to a family of objets without giving away aceess to the full bucket. So this provides more granular control over what a PAR can do.
+where they would want to give access only to a subset of objets within a bucket without giving away aceess to the full bucket. So this provides more granular control over what a PAR can do.
 
 3. And finally, we now provide the option to enable listing usina a PAR. Enabling this would let customers see all the contents of a bucket or just the ones restricted by a prefix.
 
